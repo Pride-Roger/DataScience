@@ -1,0 +1,7 @@
+import numpy as np
+
+Sample=[1,2,3,4,5,6,7,8,9,0]
+
+Average_Sample=np.mean(Sample)
+
+print(Average_Sample)
